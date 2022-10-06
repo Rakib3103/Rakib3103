@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **django, robotics**
 
-- 📫 How to reach me **mazharul.islam.rakib@g.bracu.ac.bd**
+- 📫 How to reach me **mazharul.islam.rakib.cse@gmail.com**
 
 - ⚡ Fun fact **I look a bit arrogant but I am friendly as heaven.**
 
