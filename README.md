@@ -18,7 +18,11 @@
 - 📫 How to reach me **mazharul.islam.rakib.cse@gmail.com**
 
 - ⚡ Fun fact **I look a bit arrogant but I am friendly as heaven.**
+<hr>
 
+![my github activity graph](https://activity-graph.herokuapp.com/graph?username=Rakib3103&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
+
+<hr>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
