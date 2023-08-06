@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazharul Islam Rakib</h1>
-<h3 align="center">A Computer Science & Engineering student at BRAC University who is a passionate Full Stack Django Developer | AI, Machine Learning, Robotics & Software Enthusiast from Bangladesh</h3>
+<h3 align="center">A Computer Science & Engineering student at BRAC University who is a passionate Full Stack Developer | AI, Machine Learning, Robotics & Software Enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [BRACU Mongol Tori](https://www.facebook.com/bracumongoltori/)
 
-- 🌱 I’m currently learning **Javascript, ReactJS, NodeJS**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **AI,Computer Vision, Robotics and Machine Learning Projects**
 
-- 💬 Ask me about **django, robotics**
+- 💬 Ask me about **Web Development, robotics**
 
 - 📫 How to reach me **mazharul.islam.rakib.cse@gmail.com**
 
