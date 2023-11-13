@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mazharul_rakib3" target="blank"><img src="https://img.shields.io/twitter/follow/mazharul_rakib3?logo=twitter&style=for-the-badge" alt="mazharul_rakib3" /></a> </p>
 
-- 🔭 I’m currently working on [BRACU Mongol Tori](https://www.facebook.com/bracumongoltori/)
+- 🔭 Former Sub-Team Lead [BRACU Mongol Tori](https://www.facebook.com/bracumongoltori/)
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **iOS Development**
 
-- 👯 I’m looking to collaborate on **AI,Computer Vision, Robotics and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Artificial Intelligence,Computer Vision, Robotics, Natural Language Processing and Machine Learning Projects**
 
-- 💬 Ask me about **Web Development, robotics**
+- 💬 Ask me about **Web Development, Robotics**
 
 - 📫 How to reach me **mazharul.islam.rakib.cse@gmail.com**
 
