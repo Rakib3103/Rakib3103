@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mazharul Islam Rakib</h1>
-<h3 align="center">A Computer Science & Engineering student at BRAC University who is a passionate Full Stack Developer | AI, Machine Learning, Robotics & Software Enthusiast from Bangladesh</h3>
+<h3 align="center">A Computer Science & Engineering graduate from BRAC University who is a passionate Full Stack Developer | AI, Machine Learning, Robotics & Software Enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
