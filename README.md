@@ -9,11 +9,11 @@
 
 - 🔭 Former Sub-Team Lead [BRACU Mongol Tori](https://www.facebook.com/bracumongoltori/)
 
-- 🌱 I’m currently learning **iOS Development**
+- 🌱 I’m currently doing my Internship at BRAC, Bangladesh.
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence,Computer Vision, Robotics, Natural Language Processing and Machine Learning Projects**
 
-- 💬 Ask me about **Web Development, Robotics**
+- 💬 Ask me about **Robotics, AI**
 
 - 📫 How to reach me **mazharul.islam.rakib.cse@gmail.com**
 
